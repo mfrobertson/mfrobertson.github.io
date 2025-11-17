@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Mathew Fraser Robertson"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/me.jpg"
   bio    : "Astrophysics PhD pivoting into data science and analytics. Experienced with Python, SQL, statistics and large-scale data."
   links:
     - label: "LinkedIn"
