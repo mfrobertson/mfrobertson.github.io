@@ -65,7 +65,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/{{site.linkedin_username}}
+      url: "https://linkedin.com/{{site.linkedin_username}}"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/{{site.github_username}}"
@@ -74,7 +74,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/{{site.linkedin_username}}
+      url: "https://linkedin.com/{{site.linkedin_username}}"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
