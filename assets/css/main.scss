@@ -1,0 +1,103 @@
+---
+# Only the main Sass file needs front matter; the dashes are enough
+---
+
+/* Import the Air skin first */
+@import "minimal-mistakes/skins/air";
+
+@import "minimal-mistakes";
+
+/* ============================================================
+   PROFESSIONAL CARD STYLING FOR FEATURE ROWS
+   Minimal and fully compatible with the theme defaults.
+   ============================================================ */
+
+/* Make feature_row cards look like clean white “cards” */
+.feature__item {
+  background: #ffffff;
+  /* White background gives a clean card look */
+
+  border-radius: 10px;
+  /* Soft corners make cards feel modern and intentional */
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  /* Light, diffused shadow for depth without heaviness */
+
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  /* Smooth animation for hover effects */
+
+  padding: 1.6rem;
+  /* Internal breathing room for content */
+
+  margin-bottom: 1.5rem;
+  /* Adds clear vertical space so the next row of cards
+     doesn’t sit right against the shadow of the previous row */
+
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+}
+
+/* Hover effect: lift the card slightly + stronger shadow */
+.feature__item:hover {
+  transform: translateY(-4px);
+  /* Subtle lift to indicate interactivity */
+
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+  /* Slightly deeper shadow when hovering */
+}
+
+/* Make logo images neat and consistent */
+.feature__item .archive__item-teaser img {
+  max-height: 70px;
+  /* Prevent huge logos from stretching cards */
+
+  width: auto;
+  /* Preserve natural aspect ratio */
+
+  object-fit: contain;
+  /* Makes tall/narrow logos scale nicely */
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* Centers the logo horizontally */
+
+//   margin-bottom: 0.8rem;
+  /* Adds breathing room after the logo */
+}
+
+/* Center the job title inside the card */
+.feature__item .archive__item-title {
+  text-align: center;
+  /* Professional symmetry */
+
+  font-weight: 600;
+  font-size: 1rem
+  /* Slightly stronger emphasis */
+
+//   margin-bottom: 0.5rem;
+  /* Space before the description */
+}
+
+/* Excerpt */
+.feature__item .archive__item-excerpt {
+  text-align: left;
+  /* Professional symmetry */
+
+  font-size: 0.7rem;
+  max-width: none !important;   /* remove the theme’s internal text width cap */
+  width: 100%;
+}
+
+/* Ensure feature_row cards don't overlap following content */
+.feature__wrapper::after {
+  content: "";
+  /* Creates a pseudo-element inside the wrapper */
+
+  display: table;
+  /* Makes the pseudo-element take up space, enabling clearing */
+
+  clear: both;
+  /* Clears the floated feature__item elements so the wrapper
+     fully wraps them and the next section starts below */
+}
