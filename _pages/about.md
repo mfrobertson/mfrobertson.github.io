@@ -10,7 +10,7 @@ exp_feature_row:
     tooltip: "University of Sussex"
   - image_path: https://www.deloitte.co.uk/fast50/assets/img/logos-winners/2020/featurespace-logo.png
     title: "2020 - 2021"
-    excerpt: "• Implementation Engineer"
+    excerpt: "• Implementation Engineer<br><br>"
     tooltip: "Featurespace"
   - image_path: https://viterbicareers.usc.edu/wp-content/uploads/2019/11/king-abdullah-university-of-science-and-technology-kaust-logo.png
     title: "2019"
@@ -18,7 +18,7 @@ exp_feature_row:
     tooltip: "KAUST"
   - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Desy_logo_3c_web.svg/1200px-Desy_logo_3c_web.svg.png
     title: "2018"
-    excerpt: "• Particle Physics Researcher"
+    excerpt: "• Particle Physics Researcher<br><br>"
     tooltip: "DESY"
   - image_path: https://images.seeklogo.com/logo-png/14/1/university-of-glasgow-logo-png_seeklogo-145972.png
     title: "2016-2017"
@@ -26,7 +26,7 @@ exp_feature_row:
     tooltip: "University of Glasgow"
   - image_path: https://upload.wikimedia.org/wikipedia/commons/b/bc/Decathlon_-_logo_%28France%2C_2024%29.svg
     title: " 2014"
-    excerpt: "• Sports Advisor"
+    excerpt: "• Sports Advisor<br><br><br>"
     tooltip: "Decathlon"
     
 ed_feature_row:
@@ -36,7 +36,7 @@ ed_feature_row:
     tooltip: "University of Sussex"
   - image_path: https://images.seeklogo.com/logo-png/14/1/university-of-glasgow-logo-png_seeklogo-145972.png
     title: "2014 - 2019"
-    excerpt: "Physics MSci (1st class)"
+    excerpt: "Physics MSci (1st class)<br><br>"
     tooltip: "University of Glasgow"
   - image_path: https://upload.wikimedia.org/wikipedia/commons/4/4f/UMass_Seal_Medium_PMS_202.png
     title: "2015 - 2016"
