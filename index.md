@@ -33,7 +33,7 @@ Data scientist with a PhD in astrophysics, specialising in scalable analytics, m
 
 ___
 
-### Find out more about me 👇
+### Find out more about me
 
 <div class="nav-gallery">
 {% include gallery id="nav_gallery" %}

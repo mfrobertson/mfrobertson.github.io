@@ -3,6 +3,16 @@ permalink: /projects/
 title: "Projects"
 layout: single
 
+game_gallery:
+  - url: /assets/flappy.gif
+    image_path: /assets/flappy_pic.png
+    alt: "Flappy Bird"
+    title: "Flappy Bird"
+  - url: /assets/connect4.gif
+    image_path: /assets/connect4_pic.png
+    alt: "Connect 4"
+    title: "Connect 4"
+
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
@@ -27,7 +37,9 @@ toc_icon: "cog"
 ## Video Games
  - Missing the good old days of Flappy Bird? 
  - Or want a simple game of Connect Four with your friend? 
- - Check out my games
+ - Check out my games (try clicking on them 👇)
+
+{% include gallery id="game_gallery" %}
 
 ### Stack
  - <i class='fab fa-unity'></i> Unity
