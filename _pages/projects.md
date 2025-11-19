@@ -37,7 +37,7 @@ toc_icon: "cog"
 ---
 <br>
 <p align="center" markdown="1">
-Continue exploring 👇<br>
+Continue exploring<br>
 <br>
 [Home](/){: .btn .btn--danger} [About](/about/){: .btn .btn--primary} [Work](/work/){: .btn .btn--primary}
 </p>

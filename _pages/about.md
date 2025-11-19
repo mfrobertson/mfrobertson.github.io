@@ -101,7 +101,7 @@ D G Smith Award **2014**
 ---
 <br>
 <p align="center" markdown="1">
-Continue exploring 👇<br>
+Continue exploring<br>
 <br>
 [Home](/){: .btn .btn--danger} [Work](/work/){: .btn .btn--primary} [Projects](/projects/){: .btn .btn--primary}
 </p>
