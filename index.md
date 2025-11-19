@@ -35,4 +35,6 @@ ___
 
 ### Find out more about me 👇
 
+<div class="nav-gallery">
 {% include gallery id="nav_gallery" %}
+</div>
