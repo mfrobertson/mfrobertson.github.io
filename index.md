@@ -1,50 +1,38 @@
 ---
 layout: splash
 classes: landing
+title: "Mathew Fraser Robertson"
+excerpt: "<i class='fab fa-linkedin'></i> [LinkedIn](https://linkedin.com/in/mathew-fraser-robertson) <i class='fab fa-github'></i> [GitHub](https://github.com/mfrobertson) <i class='fas fa-envelope'></i> [Email](mailto:mathewfraserrobertson@gmail.com) <i class='fab fa-orcid'></i> [ORCID](https://orcid.org/0009-0003-7176-2475) <i class='fas fa-file-alt'></i> [CV](/assets/CV.pdf)"
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/0/04/Cosmic_Microwave_Background_%28CMB%29.jpeg
-  overlay_filter: 0.3
-  title: "Mathew Fraser Robertson"
-  subtitle: "Data Science & Analytics"
+  overlay_color: "#000000"      # black overlay
+  overlay_filter: "0.4"         # 0.3–0.6 is a good range
 
-exp_feature_row:
-  - image_path: https://upload.wikimedia.org/wikipedia/commons/3/34/University_of_Sussex_Logo.svg
-    title: "2021 - 2025"
-    excerpt: "Physics researcher"
-  - image_path: https://www.deloitte.co.uk/fast50/assets/img/logos-winners/2020/featurespace-logo.png
-    title: "2020 - 2021"
-    excerpt: "Implementation Engineer"
-  - image_path: https://viterbicareers.usc.edu/wp-content/uploads/2019/11/king-abdullah-university-of-science-and-technology-kaust-logo.png
-    title: "2019"
-    excerpt: "Materials Science Researcher"
-  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Desy_logo_3c_web.svg/1200px-Desy_logo_3c_web.svg.png
-    title: "2018"
-    excerpt: "Particle Physics Researcher "
-  - image_path: https://images.seeklogo.com/logo-png/14/1/university-of-glasgow-logo-png_seeklogo-145972.png
-    title: "2017"
-    excerpt: "Particle Physics Researcher "
-  - image_path: https://images.seeklogo.com/logo-png/14/1/university-of-glasgow-logo-png_seeklogo-145972.png
-    title: " 2016"
-    excerpt: "Statistics Researcher"
-  - image_path: https://upload.wikimedia.org/wikipedia/commons/b/bc/Decathlon_-_logo_%28France%2C_2024%29.svg
-    title: " 2014"
-    excerpt: "Sports Advisor"
+nav_gallery:
+  - url: /about/
+    image_path: https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=
+    alt: "placeholder image 1"
+    title: "Go to About page"
+  - url: /work/
+    image_path: https://static.vecteezy.com/system/resources/thumbnails/049/033/967/small/business-man-icon-working-at-his-office-desk-flat-illustration-isolated-on-white-background-vector.jpg
+    alt: "placeholder image 2"
+    title: "Go to Work page"
+  - url: /projects/
+    image_path: https://static.vecteezy.com/system/resources/previews/014/769/487/non_2x/projects-line-icon-vector.jpg
+    alt: "placeholder image 3"
+    title: "Go to Projects page"
     
-ed_feature_row:
-  - image_path: https://upload.wikimedia.org/wikipedia/commons/3/34/University_of_Sussex_Logo.svg
-    title: "2021 - 2025"
-    excerpt: "Astrophysics PhD (awarded)"
-  - image_path: https://images.seeklogo.com/logo-png/14/1/university-of-glasgow-logo-png_seeklogo-145972.png
-    title: "2014 - 2019"
-    excerpt: "Physics MSci (1st class)"
-  - image_path: https://upload.wikimedia.org/wikipedia/commons/4/4f/UMass_Seal_Medium_PMS_202.png
-    title: "2015 - 2016"
-    excerpt: "Physics Study abroad (3.6 GPA)"
+
     
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-{{site.author.bio}}
+Data scientist with a PhD in astrophysics, specialising in scalable analytics, modelling, and data-driven problem-solving.
 
+___
+
+### Find out more about me 👇
+
+{% include gallery id="nav_gallery" %}

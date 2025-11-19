@@ -2,36 +2,42 @@
 permalink: /projects/
 title: "Projects"
 layout: single
-classes: wide
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
-Here are a few projects that show how I work with data in practice. I’m gradually adding more detail as I polish them for job applications.
+## Where to Stream
+ - Ever wonder what streaming service is showing your desired movie/tv show? 
+ - Maybe you want to know which countries are showing it on Netflix? 
+ - Check out my app [Where-to-Stream](https://where-to-stream.streamlit.app/).
 
-## Movie recommendations & analytics
 
-Built a small end-to-end project using public movie and ratings data to explore:
+[
+![App Demo](/assets/where-to-stream_recording-ezgif.com-video-to-gif-converter.gif){: .align-center .img-large}
+](https://where-to-stream.streamlit.app/){:target="_blank"}
 
-- Ingesting data via an API and CSV files  
-- Cleaning and joining multiple tables with **pandas** / **SQL-style operations**  
-- Exploratory analysis of user behaviour and movie popularity  
-- Simple recommendation ideas based on similarity and popularity  
-- A reproducible repository structure and clear documentation
+### Stack
+ - <i class='fab fa-python'></i> Python
+ - <i class='fas fa-code'></i> Rest API
+ - <i class='fas fa-server'></i> Streamlit
+ - <i class='fas fa-github'></i> [GitHub](https://github.com/mfrobertson/popcorn-ml/tree/app_only)
 
-*(GitHub link coming soon – I’m tidying the repo for public release.)*
+## Video Games
+ - Missing the good old days of Flappy Bird? 
+ - Or want a simple game of Connect Four with your friend? 
+ - Check out my games
+
+### Stack
+ - <i class='fab fa-unity'></i> Unity
+ - <i class='fas fa-code'></i> C#
+ - <i class='fas fa-blender'></i> Blender
 
 ---
-
-## Large-scale simulation & signal detection (PhD work, re-framed)
-
-Adapted my PhD work into an industry-style project focused on:
-
-- Processing very large simulated datasets on an **HPC cluster**  
-- Writing vectorised **Python** code to handle millions of data points efficiently  
-- Designing statistical estimators to detect faint signals buried in noise  
-- Validating methods with synthetic data and robustness checks  
-
-This experience maps closely to problems like anomaly detection, forecasting in noisy environments, and building reliable analytics pipelines.
-
----
-
-More projects and write-ups coming soon.
+<br>
+<p align="center" markdown="1">
+Continue exploring 👇<br>
+<br>
+[Home](/){: .btn .btn--danger} [About](/about/){: .btn .btn--primary} [Work](/work/){: .btn .btn--primary}
+</p>
