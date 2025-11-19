@@ -2,7 +2,7 @@
 layout: splash
 classes: landing
 title: "Mathew Fraser Robertson"
-excerpt: "<i class='fab fa-linkedin'></i> [LinkedIn](https://linkedin.com/in/mathew-fraser-robertson) <i class='fab fa-github'></i> [GitHub](https://github.com/mfrobertson) <i class='fas fa-envelope'></i> [Email](mailto:mathewfraserrobertson@gmail.com) <i class='fab fa-orcid'></i> [ORCID](https://orcid.org/0009-0003-7176-2475) <i class='fas fa-file-alt'></i> [CV](/assets/CV.pdf)"
+excerpt: "<i class='fab fa-linkedin'></i> [LinkedIn](https://linkedin.com/in/mathew-fraser-robertson){:target='_blank'} <i class='fab fa-github'></i> [GitHub](https://github.com/mfrobertson){:target='_blank'} <i class='fas fa-envelope'></i> [Email](mailto:mathewfraserrobertson@gmail.com){:target='_blank'} <i class='fab fa-orcid'></i> [ORCID](https://orcid.org/0009-0003-7176-2475){:target='_blank'} <i class='fas fa-file-alt'></i> [CV](/assets/CV.pdf){:target='_blank'}"
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/0/04/Cosmic_Microwave_Background_%28CMB%29.jpeg
   overlay_color: "#000000"      # black overlay

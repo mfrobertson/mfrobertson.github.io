@@ -11,7 +11,7 @@ toc_icon: "cog"
 ## Where to Stream
  - Ever wonder what streaming service is showing your desired movie/tv show? 
  - Maybe you want to know which countries are showing it on Netflix? 
- - Check out my app [Where-to-Stream](https://where-to-stream.streamlit.app/).
+ - Check out my app [Where-to-Stream](https://where-to-stream.streamlit.app/){:target="_blank"}.
 
 
 [
@@ -22,7 +22,7 @@ toc_icon: "cog"
  - <i class='fab fa-python'></i> Python
  - <i class='fas fa-code'></i> Rest API
  - <i class='fas fa-server'></i> Streamlit
- - <i class='fas fa-github'></i> [GitHub](https://github.com/mfrobertson/popcorn-ml/tree/app_only)
+ - <i class='fas fa-github'></i> [GitHub](https://github.com/mfrobertson/popcorn-ml/tree/app_only){:target="_blank"}
 
 ## Video Games
  - Missing the good old days of Flappy Bird? 
