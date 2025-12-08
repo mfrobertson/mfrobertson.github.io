@@ -98,10 +98,13 @@ saving billions on telescope costs.
 {% include gallery id="project1_gallery" %}
  - Stack
    - <i class='fab fa-python'></i> Python
-   - <i class='fas fa-subscript'></i> Mathematics
-     - <i class='fas fa-line-chart'></i> Statistics
-     - <i class='fas fa-subscript'></i> Vectorisation
-     - <i class='fas fa-subscript'></i> FFTs
+   - <i class='fas fa-superscript'></i> Mathematics
+     - <i class='fas fa-chart-line'></i> Statistics
+     - <i class='fas fa-bolt'></i> Vectorisation
+     - <i class='fas fa-wave-square'></i> FFTs
+   - <i class='fas fa-chart-bar'></i> Data Visualisation
+     - <i class='fas fa-chart-area'></i> Matplotlib
+     - <i class='fas fa-book-open'></i> Jupyter
 
 ### Analysis pipeline and simulations
 ([paper](https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/034){:target='_blank'})
@@ -114,19 +117,38 @@ Pipeline can be re-used with future data for scientific research.
 {% include gallery id="project2_gallery" %}
 - Stack
   - <i class='fab fa-python'></i> Python
-    - <i class='fab fa-python'></i> NumPy
+    - <i class='fa-square-root-alt'></i> NumPy
     - <i class='fab fa-python'></i> HealPy
-    - <i class='fab fa-python'></i> mpi4py (parallel programming)
+    - <i class='fas fa-project-diagram'></i> mpi4py (parallel programming)
   - <i class='fas fa-server'></i> HPC
     - <i class='fab fa-linux'></i> Linux
     - <i class='fas fa-terminal'></i> Bash
-    - <i class='fas fa-server'></i> Slurm
+    - <i class='fas fa-tasks'></i> Slurm
   - <i class='fab fa-github'></i> [GitHub](https://github.com/mfrobertson/omegaqe){:target="_blank"}
+  - <i class='fas fa-chart-bar'></i> Data Visualisation
+    - <i class='fas fa-chart-area'></i> Matplotlib
+    - <i class='fas fa-book-open'></i> Jupyter
 
 ## International Research Experience
 Early research experience in UK, Germany, and Saudi Arabia, across fields including statistics, particle physics, gravitational waves, 
 and materials science.
 {% include gallery id="project4_gallery" %}
+- Stack
+  - <i class='fab fa-r-project'></i> R 
+  - <i class='fas fa-code'></i> C++
+  - <i class='fab fa-python'></i> Python
+    - <i class='fas fa-square-root-alt'></i> NumPy
+    - <i class='fas fa-flask'></i> SciPy
+    - <i class='fas fa-table'></i> Pandas
+    - <i class='fab fa-python'></i> Cython
+  - <i class='fas fa-server'></i> HPC
+    - <i class='fab fa-linux'></i> Linux
+    - <i class='fas fa-terminal'></i> Bash
+    - <i class='fas fa-tasks'></i> Slurm
+  - <i class='fas fa-chart-bar'></i> Data Visualisation
+    - <i class='fas fa-chart-area'></i> Matplotlib
+    - <i class='fas fa-book-open'></i> Jupyter
+    - <i class='fas fa-chart-bar'></i> Root
 
 ## Industry Experience
 Implementation Engineer at Featurespace where I deployed fraud detecting machine learning software for banks.

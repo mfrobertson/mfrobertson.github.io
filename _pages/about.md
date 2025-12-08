@@ -71,7 +71,7 @@ toc_icon: "cog"
 ## Software Stack
 
 <i class='fab fa-python'></i> Python <i class='fas fa-database'></i> SQL <i class='fas fa-terminal'></i> Bash 
-<i class='fas fa-code'></i> R <i class='fab fa-linux'></i> Linux <i class='fas fa-server'></i> HPC <i class='fas fa-database'></i> MongoDB
+<i class='fab fa-r-project'></i> R <i class='fab fa-linux'></i> Linux <i class='fas fa-server'></i> HPC <i class='fas fa-database'></i> MongoDB
 <i class='fas fa-code'></i> C++ <i class='fas fa-code'></i> C# <i class='fab fa-java'></i> Java <i class='fas fa-code'></i> JavaScript 
 <i class='fab fa-html5'></i> HTML <i class='fab fa-css'></i> CSS <i class='fab fa-unity'></i> Unity <i class='fab fa-github'></i> GitHub
 
