@@ -147,7 +147,6 @@ and materials science.
     - <i class='fas fa-tasks'></i> Slurm
   - <i class='fas fa-chart-bar'></i> Data Visualisation
     - <i class='fas fa-chart-area'></i> Matplotlib
-    - <i class='fas fa-book-open'></i> Jupyter
     - <i class='fas fa-chart-bar'></i> Root
 
 ## Industry Experience
