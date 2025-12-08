@@ -30,9 +30,9 @@ toc_icon: "cog"
 
 ### Stack
  - <i class='fab fa-python'></i> Python
- - <i class='fas fa-code'></i> Rest API
+ - <i class='fas fa-network-wired'></i> Rest API
  - <i class='fas fa-server'></i> Streamlit
- - <i class='fas fa-github'></i> [GitHub](https://github.com/mfrobertson/popcorn-ml/tree/app_only){:target="_blank"}
+ - <i class='fab fa-github'></i> [GitHub](https://github.com/mfrobertson/popcorn-ml/tree/app_only){:target="_blank"}
 
 ## Video Games
  - Missing the good old days of Flappy Bird? 

@@ -37,14 +37,14 @@
   padding-right: 1rem;
 }
 
-/* Hover effect: lift the card slightly + stronger shadow */
-.feature__item:hover {
-  transform: translateY(-4px);
-  /* Subtle lift to indicate interactivity */
-
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
-  /* Slightly deeper shadow when hovering */
-}
+// /* Hover effect: lift the card slightly + stronger shadow */
+// .feature__item:hover {
+//   transform: translateY(-4px);
+//   /* Subtle lift to indicate interactivity */
+//
+//   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+//   /* Slightly deeper shadow when hovering */
+// }
 
 /* Make logo images neat and consistent */
 .feature__item .archive__item-teaser img {
@@ -121,4 +121,28 @@
 
 .nav-gallery {
   filter: brightness(0.8);
+}
+
+/* Kill any decorative divider associated with feature rows */
+.page__content .feature__wrapper,
+.page__content .feature__wrapper + *,
+.page__content .feature__wrapper::before,
+.page__content .feature__wrapper::after {
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Also ensure the pseudo-elements don't draw a line */
+.page__content .feature__wrapper::before,
+.page__content .feature__wrapper::after {
+  content: none !important;
+  height: 0 !important;
+  background: transparent !important;
+}
+
+/* Reduce spacing underneath feature rows */
+.feature__wrapper {
+  margin-bottom: 0 !important;     /* remove entirely */
+  padding-bottom: 0 !important;    /* remove internal spacing if any */
 }

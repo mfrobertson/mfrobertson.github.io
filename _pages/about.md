@@ -14,7 +14,7 @@ exp_feature_row:
     tooltip: "Featurespace"
   - image_path: https://viterbicareers.usc.edu/wp-content/uploads/2019/11/king-abdullah-university-of-science-and-technology-kaust-logo.png
     title: "2019"
-    excerpt: "• Materials Science Researcher"
+    excerpt: "• Materials Science Researcher<br><br>"
     tooltip: "KAUST"
   - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Desy_logo_3c_web.svg/1200px-Desy_logo_3c_web.svg.png
     title: "2018"
@@ -36,7 +36,7 @@ ed_feature_row:
     tooltip: "University of Sussex"
   - image_path: https://images.seeklogo.com/logo-png/14/1/university-of-glasgow-logo-png_seeklogo-145972.png
     title: "2014 - 2019"
-    excerpt: "Physics MSci (1st class)<br><br>"
+    excerpt: "Physics MSci (1st class)<br>"
     tooltip: "University of Glasgow"
   - image_path: https://upload.wikimedia.org/wikipedia/commons/4/4f/UMass_Seal_Medium_PMS_202.png
     title: "2015 - 2016"
@@ -62,6 +62,7 @@ toc_icon: "cog"
 ## Where I've Worked
 
 {% include feature_row id="exp_feature_row"%}
+<p class="text-center"><a href="/work/" class="btn btn--primary">Learn More</a></p>
 
 ## Where I've Studied
 
@@ -97,7 +98,7 @@ D G Smith Award **2014**
 ## Hobbies
 
 ⚽️ Football  🧗Bouldering  🏸 Badminton  🎾 Tennis  🎲 Boardgames  💻 Coding  🎮 Video Game Dev
-
+<p class="text-center"><a href="/projects/" class="btn btn--primary">Learn More</a></p>
 ---
 <br>
 <p align="center" markdown="1">
