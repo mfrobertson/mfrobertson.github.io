@@ -29,7 +29,7 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-Data scientist/engineer with a PhD in astrophysics, specialising in scalable analytics, numerical modelling, and high-performance problem-solving.
+Data scientist/engineer with a PhD in astrophysics, specialising in numerical modelling, high-performance computing (HPC) optimisation, and data-driven problem-solving.
 
 ___
 
