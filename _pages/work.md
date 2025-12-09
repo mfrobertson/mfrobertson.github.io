@@ -22,59 +22,41 @@ project2_gallery:
     
 
 project3_gallery:
-  - url: https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Free-Image.png
-    image_path: https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Free-Image.png
+  - image_path: https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Free-Image.png
     title: "MongoDB"
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
     title: "Python"
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png
     title: "Bash"
-  - url: https://img.utdstc.com/icon/dd4/a6e/dd4a6e96b050404041e492471fc933e9d2dd5c24a7bf06e2f0a0e6a43b0f4bb5:200
-    image_path: https://img.utdstc.com/icon/dd4/a6e/dd4a6e96b050404041e492471fc933e9d2dd5c24a7bf06e2f0a0e6a43b0f4bb5:200
+  - image_path: https://img.utdstc.com/icon/dd4/a6e/dd4a6e96b050404041e492471fc933e9d2dd5c24a7bf06e2f0a0e6a43b0f4bb5:200
     title: "VM Virtualbox"
-  - url: https://hermes.dio.me/articles/cover/d31216e7-884f-4b5f-91ec-a12bf597421b.png
-    image_path: https://hermes.dio.me/articles/cover/d31216e7-884f-4b5f-91ec-a12bf597421b.png
+  - image_path: https://hermes.dio.me/articles/cover/d31216e7-884f-4b5f-91ec-a12bf597421b.png
     title: "Linux"
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png
     title: "GitLab"
-  - url: https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png
-    image_path: https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png
+  - image_path: https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png
     title: "JavaScript"
-  - url: https://www.maltego.com/images/uploads/regex-logo.png
-    image_path: https://www.maltego.com/images/uploads/regex-logo.png
+  - image_path: https://www.maltego.com/images/uploads/regex-logo.png
     title: "Regex"
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png
     title: "Graphana"
-  - url: https://images.seeklogo.com/logo-png/37/2/nginx-logo-png_seeklogo-373802.png
-    image_path: https://images.seeklogo.com/logo-png/37/2/nginx-logo-png_seeklogo-373802.png
+  - image_path: https://images.seeklogo.com/logo-png/37/2/nginx-logo-png_seeklogo-373802.png
     title: "NGINX"
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/1024px-Elasticsearch_logo.svg.png
-    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/1024px-Elasticsearch_logo.svg.png
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/1024px-Elasticsearch_logo.svg.png
     title: "Elasticsearch (ELK)"
-  - url: https://freesvg.org/img/elastic-logstash-fw.png
-    image_path: https://freesvg.org/img/elastic-logstash-fw.png
+  - image_path: https://freesvg.org/img/elastic-logstash-fw.png
     title: "Logstash (ELK)"
-  - url: https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Felasticco_kibana_logo_icon_169209.png&id=169209&pack_or_individual=pack
-    image_path: https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Felasticco_kibana_logo_icon_169209.png&id=169209&pack_or_individual=pack
+  - image_path: https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Felasticco_kibana_logo_icon_169209.png&id=169209&pack_or_individual=pack
     title: "Kibana (ELK)"
-  - url: https://www.cleo.com/sites/default/files/2023-12/kafka-integration.png
-    image_path: https://www.cleo.com/sites/default/files/2023-12/kafka-integration.png
+  - image_path: https://www.cleo.com/sites/default/files/2023-12/kafka-integration.png
     title: "Apache Kafka"
-  - url: https://images.seeklogo.com/logo-png/48/2/insomnia-logo-png_seeklogo-489676.png
-    image_path: https://images.seeklogo.com/logo-png/48/2/insomnia-logo-png_seeklogo-489676.png
+  - image_path: https://images.seeklogo.com/logo-png/48/2/insomnia-logo-png_seeklogo-489676.png
     title: "Insomnia"
-  - url: https://www.mabl.com/hubfs/CICDBlog.png
-    image_path: https://www.mabl.com/hubfs/CICDBlog.png
+  - image_path: https://www.mabl.com/hubfs/CICDBlog.png
     title: "CI/CD"
-  - url: https://cdn-icons-png.flaticon.com/512/10435/10435145.png
-    image_path: https://cdn-icons-png.flaticon.com/512/10435/10435145.png
+  - image_path: https://cdn-icons-png.flaticon.com/512/10435/10435145.png
     title: "Unit Testing"
-  - url: https://intrastage.com/wp-content/uploads/2019/09/rest-api-icon.png
-    image_path: https://intrastage.com/wp-content/uploads/2019/09/rest-api-icon.png
+  - image_path: https://intrastage.com/wp-content/uploads/2019/09/rest-api-icon.png
     title: "REST API"
 
 project4_gallery:
