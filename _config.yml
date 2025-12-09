@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Mathew Fraser Robertson"
   avatar : "/assets/images/me.jpeg"
-  bio    : 'Data Scientist &#124; Astrophysics PhD &#124; Python • SQL • Statistical Modelling'
+  bio    : 'Data Scientist &#124; Astrophysics PhD &#124; Python • SQL • HPC'
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
