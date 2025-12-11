@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mathew Fraser Robertson
+logo: https://img.icons8.com/?size=80&id=8smWJq03H9Wh&format=png
 email: MathewFraserRobertson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  - Data Scientist with a [PhD in Astrophysics](/work/#phd-project)
