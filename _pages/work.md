@@ -20,19 +20,32 @@ project2_gallery:
     alt: "Simulated data agrees with theory to within experimental accuracy."
     title: "Estimator applied to simulated data (green dots) agrees well with theory (solid black line)."
     
-
 project3_gallery:
+  - url: /assets/images/int_research_comp.png
+    image_path: /assets/images/int_research_comp.png
+    alt: "Compilation of plots from different research projects during my undergraduate degree."
+    title: "Top Left: Novel regression model demo. Top Right: Parameter optimisation in CERN simulations.
+     Bottom Left: Parameter space of new physics searches at CERN. Bottom Right: Completeness of galaxy catalogue. Right: Band structure of simulated lattice structure."
+
+    
+project4_gallery:
+  - url: https://arxiv.org/html/2406.19998v2/x6.png
+    image_path: https://arxiv.org/html/2406.19998v2/x6.png
+    alt: "Simulated data agrees with theory to within experimental accuracy."
+    title: "Estimator applied to simulated data (green dots) agrees well with theory (solid black line)."
+
+project5_gallery:
   - image_path: https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Free-Image.png
     title: "MongoDB"
   - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
     title: "Python"
   - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png
     title: "Bash"
-  - image_path: https://img.utdstc.com/icon/dd4/a6e/dd4a6e96b050404041e492471fc933e9d2dd5c24a7bf06e2f0a0e6a43b0f4bb5:200
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png
     title: "VM Virtualbox"
   - image_path: https://hermes.dio.me/articles/cover/d31216e7-884f-4b5f-91ec-a12bf597421b.png
     title: "Linux"
-  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GitLab_logo_%282%29.svg/1280px-GitLab_logo_%282%29.svg.png
     title: "GitLab"
   - image_path: https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png
     title: "JavaScript"
@@ -42,7 +55,7 @@ project3_gallery:
     title: "Graphana"
   - image_path: https://images.seeklogo.com/logo-png/37/2/nginx-logo-png_seeklogo-373802.png
     title: "NGINX"
-  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/1024px-Elasticsearch_logo.svg.png
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/3840px-Elasticsearch_logo.svg.png
     title: "Elasticsearch (ELK)"
   - image_path: https://freesvg.org/img/elastic-logstash-fw.png
     title: "Logstash (ELK)"
@@ -58,13 +71,6 @@ project3_gallery:
     title: "Unit Testing"
   - image_path: https://intrastage.com/wp-content/uploads/2019/09/rest-api-icon.png
     title: "REST API"
-
-project4_gallery:
-  - url: /assets/images/int_research_comp.png
-    image_path: /assets/images/int_research_comp.png
-    alt: "Compilation of plots from different research projects during my undergraduate degree."
-    title: "Top Left: Novel regression model demo. Top Right: Parameter optimisation in CERN simulations.
-     Bottom Left: Parameter space of new physics searches at CERN. Bottom Right: Completeness of galaxy catalogue. Right: Band structure of simulated lattice structure."
 ---
 
 ## Astrophysics PhD
@@ -114,7 +120,7 @@ Pipeline can be re-used with future data for scientific research.
 ## International Research Experience
 Early research experience in UK, Germany, and Saudi Arabia, across fields including statistics, particle physics, gravitational waves, 
 and materials science.
-{% include gallery id="project4_gallery" %}
+{% include gallery id="project3_gallery" %}
 - Stack
   - <i class='fab fa-r-project'></i> R 
   - <i class='fas fa-code'></i> C++
@@ -132,8 +138,22 @@ and materials science.
     - <i class='fas fa-chart-bar'></i> Root
 
 ## Industry Experience
+### Faculty
+Data Science Fellow at Faculty where I built a full-stack Agentic AI RAG web application for client.
+
+- Stack
+  - <i class='fab fa-openai'></i> Open AI 
+  - <i class='fas fa-link'></i> LangChain
+  - <i class='fas fa-diagram-project'></i> LangGraph
+  - <i class='fas fa-database'></i> LanceDB (Vector Database)
+  - <i class='fab fa-python'></i> Python
+  - <i class='fas fa-chart-column'></i> Ragas
+  - <i class='fab fa-gitlab'></i> GitLab
+  - <i class='fas fa-server'></i> Streamlit
+
+### Featurespace
 Implementation Engineer at Featurespace where I deployed fraud detecting machine learning software for banks.
-{% include gallery id="project3_gallery" %}
+{% include gallery id="project5_gallery" %}
 - Stack
   - <i class='fas fa-database'></i> MongoDB
   - <i class='fab fa-python'></i> Python
